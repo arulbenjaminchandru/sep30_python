@@ -1,2 +1,2 @@
 # sep30_python
-This is to store colab notebooks for sep 30 python class students
+This is to store colab notebooks and exercise for sep 30 python class students
